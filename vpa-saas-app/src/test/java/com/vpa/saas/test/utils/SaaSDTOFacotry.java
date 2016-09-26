@@ -43,7 +43,7 @@ public class SaaSDTOFacotry {
 		scannedProduct.setScanTimeZone("UTC");
 
 		scannedProduct.setUserId(userId);
-		scannedProduct.setCity(CITY);
+	scannedProduct.setCity(CITY);
  
 		scannedProduct.setCountryCode(COUNTRY_CODE);
  		scannedProduct.setCountryName(COUNTRY);
