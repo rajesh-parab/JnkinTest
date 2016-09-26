@@ -1,5 +1,5 @@
 /*************************************************************************************************************
- ** "(c) 2014-2015 Vantage Point Analytics, Inc.  
+ ** "(c)  2014-2015 Vantage Point Analytics, Inc.  
  ** All rights reserved.  This software program is the confidential and proprietary information of Vantage Point Analytics 
  ** and may not be used, reproduced, modified or distributed without the express written consent of Vantage Point Analytics."
  **
